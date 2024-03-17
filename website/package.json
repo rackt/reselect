@@ -20,6 +20,7 @@
   "dependencies": {
     "@docusaurus/core": "3.0.0",
     "@docusaurus/preset-classic": "3.0.0",
+    "@docusaurus/theme-classic": "^3.5.2",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^1.2.1",
     "docusaurus-plugin-image-zoom": "^2.0.0",
@@ -31,6 +32,8 @@
     "@docusaurus/module-type-aliases": "3.0.0",
     "@docusaurus/tsconfig": "3.0.0",
     "@docusaurus/types": "3.0.0",
+    "@types/node": "^22.7.2",
+    "@types/react": "^18.3.9",
     "netlify-plugin-cache": "^1.0.3",
     "prettier": "^3.1.0",
     "rimraf": "^5.0.5",
